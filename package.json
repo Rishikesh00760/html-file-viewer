@@ -1,0 +1,16 @@
+{
+  "name": "html-file-viewer",
+  "version": "1.0.0",
+  "description": "a simple html file viewer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Rishikesh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6",
+    "jquery": "^3.6.0"
+  }
+}
